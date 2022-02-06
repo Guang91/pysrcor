@@ -21,9 +21,10 @@ The easiest way is using pip:
 >id1, id2, dis = cat.match(rad=1, opt=2, silent=False)
 
 id1 and id2 are the matched source indexes (starting from 0) in catalogs 1 & 2
+
 dis is the distances of matched sources in arcsec
 
 ## Contact
 Post any comments/suggestions/questions under "Issues" 
-or email to
-gyang206265@gmail.com (Guang Yang)
+
+or email to gyang206265@gmail.com (Guang Yang)
