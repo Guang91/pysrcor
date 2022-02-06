@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+pysrcor/__init__.py
+pysrcor/pysrcor.py
+pysrcor.egg-info/PKG-INFO
+pysrcor.egg-info/SOURCES.txt
+pysrcor.egg-info/dependency_links.txt
+pysrcor.egg-info/requires.txt
+pysrcor.egg-info/top_level.txt
