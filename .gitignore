@@ -1,0 +1,5 @@
+build/
+dist/
+pysrcor.egg-info/
+*.pyc
+*.DS_Store
